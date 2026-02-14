@@ -18,7 +18,7 @@ body {
   height: 100vh;
   background-image:
     linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3)),
-    url("Assets/bg2.jpg");
+    url("/Assets/bg2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -31,6 +31,6 @@ body {
   .welcome-div {
     background-image:
       linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)),
-      url(Assets/bg-portrait.jpg);
+      url(/Assets/bg-portrait.jpg);
   }
 }
