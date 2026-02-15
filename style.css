@@ -28,6 +28,6 @@ body {
   .welcome-div {
     background-image:
       linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)),
-      url(/Assets/bg-portrait.jpg);
+      url("Assets/bg-portrait.jpg");
   }
 }
